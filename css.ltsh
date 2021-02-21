@@ -13,6 +13,6 @@ ltsh. <shade/arch>
 {
   {     Class.title="Counter Strike Source"
   /n Outh.Class
-Console.WriteLine
+AppData.LoadLine
    }
 }
