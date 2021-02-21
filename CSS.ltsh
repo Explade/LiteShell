@@ -1,0 +1,18 @@
+//Start New Command
+ltsh.<dav/les> 
+  public.ltsh<~~repo/*/binary.ltsh>
+{
+ {darvate.shell = null.log
+}
+ }
+
+
+//Name of new command
+ltsh. <shade/arch>
+
+{
+  {     Class.title="Counter Strike Source"
+  /n Outh.Class
+AppData.WriteLine=null
+   }
+}
