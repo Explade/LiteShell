@@ -1,6 +1,6 @@
 //Start New Command
 ltsh.<dav/les> 
-  public ltsh//
+  public.ltsh<~~repo/*/binary.ltsh>
 {
  {darvate.shell = null.log
 }
