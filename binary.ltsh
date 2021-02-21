@@ -1,6 +1,18 @@
+//Start New Command
 ltsh.<dav/les> 
   public ltsh//
 {
- {drawable.shell = null.log
+ {darvate.shell = null.log
 }
  }
+
+
+//Name of new command
+ltsh. <shade/arch>
+
+{
+  {     Class.title="Counter Strike Source"
+  /n Outh.Class
+Console.WriteLine
+   }
+}
